@@ -1,2 +1,2 @@
 # Flash_tribute_page
-same as name
+https://vachangupta.github.io/Flash_tribute_page/
